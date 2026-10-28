@@ -1,7 +1,7 @@
 Stage: Parked
 Since: 2026-10-26
 Kind: mirror (copy of btsouth/ratchet-clank-pc, not a GitHub fork)
-Spec: upstream's   Roadmap: upstream's   Code map: none
+Spec: upstream's   Roadmap: upstream's   Code map: docs/code-map.md
 Platforms: linux
 Notes: Superseded by ratchet-clank-pc (owner 2026-10-26 ruling "Keep the forks"). Kept as it is: nothing deleted or archived. Its open issue #2 belongs with the kept copy. Agent rules for our pipeline: AGENTS.fork.md; our history: CHANGELOG.fork.md.
 
